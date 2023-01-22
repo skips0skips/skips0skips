@@ -1,6 +1,4 @@
-### Hi there 👋
 
-<!--
 ---
 **skips0skips/skips0skips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ---
@@ -9,7 +7,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - [t.me/skips0skips](https://t.me/skips0skips)
 
--->
 ---
 title: skips0skips
 date: '2022-01-22'
